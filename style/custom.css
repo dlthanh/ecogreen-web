@@ -1,0 +1,220 @@
+.magz-cover img {
+    vertical-align: middle;
+}
+
+.magz-album-wrapper {
+    margin-bottom: 30px;
+    display: block;
+}
+
+.LayoutAlbumContent {
+    display: inline-block;
+    width: 100%;
+    vertical-align: bottom;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 0 !important;
+}
+
+.LayoutAlbumWrapper .LayoutAlbumRow {
+    margin-bottom: 4px !important;
+    float: left;
+    width: 100%;
+}
+
+.LayoutAlbumWrapper .LayoutAlbumItem {
+    display: block;
+    float: left;
+    margin: 0 2px;
+}
+
+.spdcig-content .LayoutAlbumRow .LayoutAlbumItem {
+    margin: 0 2px;
+}
+
+.LayoutAlbumWrapper .LayoutAlbumItem:last-of-type {
+    margin-right: 0;
+}
+
+.LayoutAlbumWrapper .LayoutAlbumItem:first-child {
+    margin-left: 0;
+}
+
+.LayoutAlbumItem a {
+    border: 0;
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.LayoutAlbumWrapper img {
+    display: block;
+    max-width: 100%;
+    transition: all .25s ease-in-out;
+}
+
+/* Quote Css */
+
+.magz-quote-wrapper, .magz-video-wrapper {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 65px;
+}
+
+.magz-quote-wrapper.quote-1 {
+    height: 475px;
+    padding-left: 160px;
+    box-sizing: border-box;
+}
+
+.magz-quote-wrapper .mqw-content {
+    position: relative;
+}
+
+.mqwc-element {
+    position: absolute;
+}
+
+.pr-160 {
+    padding-right: 160px;
+    box-sizing: border-box;
+}
+
+.pl-160 {
+    padding-left: 160px;
+    box-sizing: border-box;
+}
+
+/*Begin Quote 1*/
+
+.quote-1 .elm-0 {
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.quote-1 .elm-1 {
+    top: 35px;
+    right: 0;
+}
+
+.quote-1 .elm-2 {
+    top: 65px;
+    left: 0;
+}
+
+.quote-1 .elm-3 {
+    top: 130px;
+    left: 0;
+}
+
+.quote-1 .elm-4 {
+    top: 350px;
+    left: 0;
+}
+
+/*Begin Quote 2*/
+
+.magz-quote-wrapper.quote-2 {
+    height: 580px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+.quote-2 .elm-0 {
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.quote-2 .elm-1 {
+    top: 54px;
+    right: 0;
+}
+
+.quote-2 .elm-2 {
+    top: 40px;
+    left: 0;
+}
+
+.quote-2 .elm-3 {
+    top: 120px;
+    left: 0;
+}
+
+.quote-2 .elm-4 {
+    top: 460px;
+    left: 0;
+}
+
+/*Begin Quote 3*/
+
+.magz-quote-wrapper.quote-3 {
+    height: 620px;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 40px;
+    margin-bottom:0;
+}
+
+.quote-3 .elm-0 {
+    top: 0;
+    left: 0;
+    z-index:1;
+}
+
+.quote-3 .elm-1 {
+    top:0;
+    left: 0;
+    z-index:1;
+}
+
+.quote-3 .elm-2 {
+    top: 285px;
+    left: 0;
+    z-index:1;
+}
+
+.quote-3 .elm-3 {
+    top: 520px;
+    left: 0;
+    z-index:1;
+}
+
+
+/*Begin Quote 4*/
+
+.magz-quote-wrapper.quote-4 {
+    height: 470px;
+    padding-left: -160px;
+    float: left;
+    margin-right: 40px;
+    box-sizing: border-box;
+}
+
+.quote-4 .elm-0 {
+    top: 0;
+    left: 0;
+}
+
+.quote-4 .elm-1 {
+    top: 65px;
+    left: 0;
+}
+
+.quote-4 .elm-2 {
+    top: 390px;
+    left: 0;
+}
+
+/* Magz Credit */
+.magz-credit {
+    font-family: NotoSerif-Regular, sans-serif;
+    font-size: 17px;
+    line-height: 24px;
+    color: #02559a;
+    padding-left: 15px;
+    border-left: solid 3px #02559a;
+}

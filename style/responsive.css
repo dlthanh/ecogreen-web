@@ -1,0 +1,160 @@
+@media (max-width: 140vh) {
+    .scs-content {
+        margin-left: 4%;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .scscl-title {
+        font-size: 35px;
+        line-height: 30px;
+        margin-bottom: 12px;
+    }
+
+    .scscl-des p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .scscl-postion {
+        margin-bottom: 6px;
+    }
+
+    .k14c-content {
+        padding-top: 55px;
+    }
+
+    .k14cc-clear {
+        margin: 55px 0;
+    }
+
+    .v-black {
+        top: 30%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    .k14-sp-wrapper .sp-body-content .sp-detail {
+        padding: 100px 0 20px;
+    }
+
+    .spdc-title {
+        width: auto;
+        margin: 0;
+    }
+
+    .spdc-img-wrapper.img980 {
+        width: 100%;
+        margin: 40px 0;
+    }
+
+    .spdc-img-fr {
+        margin-right: 0;
+    }
+
+    .spdc-img-fl {
+        margin-left: 0;
+    }
+
+    .k14-sp-wrapper .sp-body-content .sp-detail .sp-sapo, .k14-sp-wrapper .sp-body-content .sp-detail {
+        font-size: 23px;
+        line-height: 35px;
+    }
+
+    .amw-info:before {
+        height: 92%;
+    }
+
+    .spdc-img-wrapper.normal img {
+        width: 100%;
+    }
+
+    .sp-image-caption, .spdcig-content.w660 {
+        width: 100% !important;
+    }
+
+    .sp-cover {
+        display: none;
+    }
+
+    .bg-cover, .move-cur {
+        display: block;
+    }
+
+    .spdc-img-wrapper.img980 .sp-image-caption {
+        width: 100%;
+    }
+
+    .videobg-content {
+        display: none;
+    }
+
+    .spdcig-content {
+        margin-bottom: 0 !important;
+        display: inline-block;
+    }
+
+    .spdc-img-wrapper.type-1 .custom {
+        right: 85px;
+    }
+
+    .spdc-img-wrapper.type-3 .c-1 {
+        width: 395px;
+        left: 370px;
+    }
+
+    .spdc-img-wrapper.type-5 .c-1 {
+        right: 0px;
+        bottom: 45px;
+        width: 400px;
+    }
+
+    .spdc-img-half video {
+        display: none;
+    }
+
+    .spdc-img-half img {
+        display: block;
+    }
+
+    .spdc-img-half, .spdc-caption-special {
+        width: 100vw;
+    }
+
+    .scs-content {
+        margin-left: 4%;
+    }
+
+    .spdc-img-wrapper.w980 {
+        padding: 0 20px;
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    .k14cc-img-title {
+        margin-left: 20px;
+    }
+
+    .spdctr-quote.type-1 {
+        width: 95%;
+
+    }
+
+    .spdctr-quote {
+        font-size: 30px;
+        line-height: 43px;
+    }
+
+}
+
+@media only screen and (orientation: landscape) {
+    .spdcig-content {
+        width: 100% !important;
+
+    }
+
+    .spdcig-content.w660 {
+        margin: 0 auto;
+    }
+}
